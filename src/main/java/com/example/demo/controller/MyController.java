@@ -6,4 +6,8 @@ package com.example.demo.controller;
  * @date 2022/10/4 13:28
  */
 public class MyController {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+
+    }
 }
