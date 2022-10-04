@@ -6,4 +6,7 @@ package com.example.demo.service;
  * @date 2022/10/4 13:39
  */
 public interface MyService {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }
