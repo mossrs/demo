@@ -6,4 +6,8 @@ package com.example.demo.config;
  * @date 2022/10/4 14:06
  */
 public class MyConfig {
+    public static void main(String[] args) {
+        System.out.println("config");
+
+    }
 }
