@@ -10,5 +10,7 @@ public class MyConfig {
         System.out.println("config");
         System.out.println("config");
         System.out.println("config");
+        System.out.println("config");
+        System.out.println("config");
     }
 }
