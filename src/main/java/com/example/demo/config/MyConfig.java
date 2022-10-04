@@ -8,6 +8,7 @@ package com.example.demo.config;
 public class MyConfig {
     public static void main(String[] args) {
         System.out.println("config");
-
+        System.out.println("config");
+        System.out.println("config");
     }
 }
